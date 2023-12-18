@@ -9,6 +9,11 @@
     color: red;
 }
 
+#subHead{
+    text-align: center;
+    margin-top: 1rem;
+}
+
 body{
     background-color: #F2F1EB;
 }
