@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+#mainHead{
+    text-align: center;
+    margin-top: 1rem;
+    color: red;
+}
+
 body{
     background-color: #F2F1EB;
 }
